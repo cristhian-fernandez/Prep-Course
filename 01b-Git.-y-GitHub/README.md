@@ -46,7 +46,7 @@ Recuerda que hay un caso muy raro donde los archivos tienen dos estados al mismo
 
 - `git status`: nos permite ver el estado de todos nuestros archivos y carpetas.
 
-- `git add`: nos ayuda a mover archivos del Untracked o Unstaged al estado Staged. Podemos usar git nombre del archivo o carpeta para añadir archivos y carpetas individuales o git add -a para mover todos los archivos de nuestro proyecto ( tanto Untrackeds como Unstageds).
+- `git add`: nos ayuda a mover archivos del Untracked o Unstaged al estado Staged. Podemos usar git nombre del archivo o carpeta para añadir archivos y carpetas individuales o git add --a para mover todos los archivos de nuestro proyecto ( tanto Untrackeds como Unstageds).
 
 - `git reset HEAD`: nos ayuda a sacar los archivos del estado Staged para devolverlos a su estado anterior. Si los archivos venian de Unstaged, vuelven alli. Y lo mismo si venian de Untracked.
 
