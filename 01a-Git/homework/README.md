@@ -122,7 +122,9 @@ Deberías ver algo parecido a estas líneas:
 ```bash
   Changes not staged for commit:
     (use "git add <file>..." to update what will be committed)
+    (use "git add <file>..." para actualizar lo que se comprometerá)
     (use "git checkout -- <file>..." to discard changes in working directory)
+    (use "git checkout -- <file>..." para descartar cambios en el directorio de trabajo)
 
     modified:   README.md
 
