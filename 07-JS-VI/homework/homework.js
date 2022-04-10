@@ -63,9 +63,10 @@ function filter(array) {
   //Devolver un nuevo array con los elementos que cumplen la condición
   //Tu código:
   return array.filter(elemento=>{
-    if(elemento[0].toLowerCase() === 'a'){
-      return elemento;
-    }
+    // if(elemento[0].toLowerCase() === 'a'){
+    //   return elemento;
+    // }
+    return elemento[0].toLowerCase() === 'a';
   });
 }
 
